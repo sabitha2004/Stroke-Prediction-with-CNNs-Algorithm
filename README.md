@@ -1,1 +1,2 @@
 # Stroke-Prediction-with-CNNs-Algorithm
+My project aims to predict strokes using a Convolutional Neural Network (CNN) algorithm. By leveraging the power of deep learning and image recognition techniques, our model analyzes medical imaging data to identify patterns associated with stroke risk. Through rigorous training and validation, we strive to develop a reliable tool for early detection and prevention of strokes, ultimately contributing to improved healthcare outcomes and quality of life.
